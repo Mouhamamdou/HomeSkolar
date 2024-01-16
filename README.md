@@ -41,17 +41,17 @@ HomeSkolar is a web application developed to connect students in need of academi
 To get started with HomeSkolar, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/your-username/homeskolar.git
+   git clone https://github.com/Mouhamamdou/HomeSkolar.git
 
-2. Set up the front-end and back-end environments.
+3. Set up the front-end and back-end environments.
 
-3. Install the required dependencies for both the front-end and back-end.
+4. Install the required dependencies for both the front-end and back-end.
 
-4. Configure the database settings.
+5. Configure the database settings.
 
-5. Run the development server.
+6. Run the development server.
 
-6. Access the application in your web browser.
+7. Access the application in your web browser.
 
 ## Contributing
 
