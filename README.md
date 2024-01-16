@@ -1,62 +1,37 @@
-# HomeSkolar
+# HomeSkolar (Design Phase)
 
 ## Project Overview
 
-HomeSkolar is a web application developed to connect students in need of academic support with remote volunteer tutors. The primary goal of this project is to make quality educational assistance accessible to students from anywhere.
+HomeSkolar is a conceptual web application designed to connect students in need of academic support with remote volunteer tutors. This project is currently in the design phase, and its primary goal is to outline the vision and requirements for the future development of the application.
 
-## Features
+## Design Goals
 
-- **Authentication:** Users can sign up, log in, manage their passwords, and update their personal information.
+- **Accessibility:** Ensuring the platform is user-friendly and accessible to a wide range of users, including those with specific needs.
 
-- **Messaging System:** Students and tutors can communicate through a simple messaging system. Users can also pin important messages for easy access.
+- **User Experience:** Focusing on creating an intuitive and enjoyable experience for both students and volunteer tutors.
 
-- **Student-Tutor Meetings:** Students and tutors can schedule and manage their regular meetings using a calendar page.
+- **Functionality:** Defining the core features and functionality of the application, including authentication, messaging, student-tutor meetings, and task management.
 
-- **Task Management:** After each meeting, students receive a list of tasks to complete before the next meeting. Users can also create personal tasks and notes.
+## Technologies Considered
 
-## Technologies Used
+- **Front-end:** Vue.js is being considered for a responsive user interface.
 
-- **Front-end:**
-  - Vue.js for a responsive user interface.
-  - HTML/CSS for structure and styling.
-  - JavaScript for interactive features.
+- **Back-end:** Python with Django is a potential choice for the backend development.
 
-- **Back-end:**
-  - Python with Django for backend development.
+- **Database:** A relational database (e.g., MySQL) is under consideration for storing and retrieving data.
 
-- **Database:**
-  - A relational database (e.g., MySQL) to store and retrieve data.
+- **Authentication:** JSON Web Tokens (JWT) are being explored for secure authentication.
 
-- **Authentication:**
-  - JSON Web Tokens (JWT) for secure authentication.
+- **Real-time Messaging:** WebSocket is a potential option for asynchronous real-time communication.
 
-- **Real-time Messaging:**
-  - WebSocket for asynchronous real-time communication.
+## Getting Involved
 
-- **Security:**
-  - Secure password hashing, HTTPS for secure communication.
+While HomeSkolar is still in the design phase, we welcome input and ideas from the community. If you have suggestions or would like to get involved in the design process, please feel free to reach out.
 
-## Getting Started
+## License
 
-To get started with HomeSkolar, follow these steps:
-
-1. Clone the repository:
-   git clone https://github.com/Mouhamamdou/HomeSkolar.git
-
-3. Set up the front-end and back-end environments.
-
-4. Install the required dependencies for both the front-end and back-end.
-
-5. Configure the database settings.
-
-6. Run the development server.
-
-7. Access the application in your web browser.
-
-## Contributing
-
-We welcome contributions from the community.
+This project, in its current design phase, does not have a specific license. It is purely a conceptual project aimed at outlining the vision for future development.
 
 ## Acknowledgments
 
-We would like to express our gratitude to the open-source community for their valuable contributions and to our dedicated team for making this project possible.
+We would like to express our gratitude to the potential contributors and the open-source community for their interest and support in shaping the future of HomeSkolar.
