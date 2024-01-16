@@ -19,7 +19,7 @@ HomeSkolar is a web application developed to connect students in need of academi
 - **Front-end:**
   - Vue.js for a responsive user interface.
   - HTML/CSS for structure and styling.
-  - JavaScript (ES6+) for interactive features.
+  - JavaScript for interactive features.
 
 - **Back-end:**
   - Python with Django for backend development.
@@ -55,11 +55,7 @@ To get started with HomeSkolar, follow these steps:
 
 ## Contributing
 
-We welcome contributions from the community. If you'd like to contribute to HomeSkolar, please follow our [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+We welcome contributions from the community.
 
 ## Acknowledgments
 
